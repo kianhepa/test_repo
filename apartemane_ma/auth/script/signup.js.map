@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "signup.js",
+  "sourceRoot": "",
+  "sources": [
+    "signup.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;AAAA;AAAA"
+}

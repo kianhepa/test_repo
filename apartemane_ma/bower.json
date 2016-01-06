@@ -1,0 +1,29 @@
+{
+  "name": "apartemane_ma",
+  "description": "webApplication to manage an apartmants",
+  "main": [
+    "apartemane_ma/script/base.coffee",
+    "apartemane_ma/style/base/base.sass"
+  ],
+  "moduleType": [],
+  "authors": [
+    "kianHEPA"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "v4.0.0-alpha.2"
+  },
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "firebase": "~2.3.2"
+  }
+}
